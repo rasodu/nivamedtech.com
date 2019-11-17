@@ -57,6 +57,9 @@ descriptions:
   - cat: press
     desc: "Latest press releases"
 
+  - cat: devices
+    desc: "Device introductions"
+
 # Social icons and sharing options
 #
 # Social settings are used in two places:
