@@ -54,7 +54,7 @@ jekyll-archives:
 
 # Category descriptions (for archive pages)
 descriptions:
-  - cat: "Press Releases"
+  - cat: press
     desc: "Latest news from us."
 
 # Social icons and sharing options
