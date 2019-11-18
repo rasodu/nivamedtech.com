@@ -5,8 +5,8 @@ permalink: /about/
 main_nav: true
 ---
 
-![alt text]({{ site.baseurl }}/assets/profile-image.jpg "Profile Picture"){:.profile}
+![alt text]({{ site.baseurl }}/assets/profile-image.jpeg "Profile Picture"){:.profile}
 
 Niva Medtech LLC designs and manufactures medical devices. We are located in Texas.
 
-Contact our sales department to get additional queries for product.
+Contact our sales department for additional queries for product.
