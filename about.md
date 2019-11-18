@@ -7,6 +7,4 @@ main_nav: true
 
 ![alt text]({{ site.baseurl }}/assets/profile-placeholder.gif "Profile Picture"){:.profile}
 
-Niva Medtech LLC designs and manufactures medical devices. We are located in Texas.
-
-Contact our sales department for additional queries for product.
+We nurture innovations to help invent new medical devices to address the need and improve healthcare delivery. We also provide medical consultations to medical device manufacturers.
